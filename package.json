@@ -1,0 +1,27 @@
+{
+  "name": "playwright_exceltestdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouberka021/playwright_excelTestData.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ouberka021/playwright_excelTestData/issues"
+  },
+  "homepage": "https://github.com/ouberka021/playwright_excelTestData#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "xlsx": "^0.18.5"
+  }
+}
